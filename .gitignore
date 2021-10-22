@@ -1,0 +1,10 @@
+.bash_history
+.bash_profile
+.bashrc
+.gitconfig
+.inputrc
+.lesshst
+.profile
+filter
+*.csv
+covid-19-data
